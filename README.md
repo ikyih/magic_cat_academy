@@ -10,6 +10,6 @@ Credit goes to Google for some of the entire game, assets, audio, and more.
 
 ## 	Documentation
 
-# Levels
+### Levels
 
 The MCA Level data is at line 3442 of halloween16.js.
